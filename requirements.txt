@@ -6,3 +6,4 @@ pony
 pymysql
 mysql-connector-python
 pytest-allure-adaptor
+wheel
