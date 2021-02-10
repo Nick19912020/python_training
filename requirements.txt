@@ -1,9 +1,9 @@
-
 pytest
 selenium
 jsonpickle
 pony
 pymysql
 mysql-connector-python
+allure-pytest
 pytest-allure-adaptor
 wheel
